@@ -6,9 +6,6 @@ folder _htdocs_ and a _file.sql_ into the folder _data_.
 
 To run the environment:
 
-* clone the repository
-* enter this folder
-* run `sudo docker-compose up -d`
 
 The environment is composed of *PHP*, *Apache* (running on port _80_), *MariaDB*
 and *PHPmyadmin* (running on port _8081_).
@@ -20,7 +17,3 @@ _docker-compose.yml_ or/and _Dockerfile_.
 If all is well you should have access to your environment at
 http://localhost:80.
 
-To stop the process run `sudo docker-compose down`, and to clean the created
-image run `sudo docker rmi docker_env_server`.
-
-NOTE: You can always ask help to your coach to setup your environment.
