@@ -6,11 +6,12 @@ A user-friendly web application that enables users to perform basic mathematical
 ## Technologie used:
 * PHP
 * CSS
+* Dockerfile
 
 
 ## Screenshots Web App
 
-![](https://github.com/Bilallamrani/Calculator/blob/main/application/source/image/Calculator.jpg?raw=true)
+![Calculator](https://github.com/Bilallamrani/Calculator/blob/main/application/source/image/Calculator.jpg?raw=true)
 
 
 
