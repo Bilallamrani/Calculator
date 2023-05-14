@@ -1,6 +1,4 @@
 
-![Calculator](./image/Calculator.jpg);
-
 
 ## Docker
 
